@@ -1,4 +1,4 @@
-# Neon Dodger 🎮
+# Neon Dodger 🎮 
 
 A fast-paced **vanilla JavaScript + Canvas** game where you dodge glowing obstacles, dash between lanes, and jump over gates. Built in a single HTML file — perfect for showcasing on GitHub Pages.
 
